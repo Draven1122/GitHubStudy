@@ -1,4 +1,4 @@
-# shiny-funicular
+# GitHubStudy project
 这是一个毕业设计项目....(基于安卓的疾病药品自查App)
  需求报告将在2016.1.6-2016-1.26号之前完成并上传
 同时借由毕业设计学习github的使用
